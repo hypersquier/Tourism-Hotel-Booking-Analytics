@@ -22,8 +22,8 @@ The Power BI solution is organized into four interactive pages. Each page below 
     - Seasonal pricing strategy implementation
     - Improved resource allocation during peak months
 
-  Screenshot (placeholder):
-  ![Page 1 - Performance Overview](docs/images/page1_performance_overview.png "Page 1 - Performance Overview - recommended size 1400×800")
+ 
+  <img width="1285" height="727" alt="Image" src="https://github.com/user-attachments/assets/9b161e94-b287-41d8-8f70-b5ea71e68e87" />
 
 - Page 2: Pricing Strategy Analysis
   - Analysis Focus: Hotel pricing optimization and influencing factors
@@ -38,8 +38,7 @@ The Power BI solution is organized into four interactive pages. Each page below 
     - Revised meal plan offerings based on profitability analysis
     - Created targeted packages for different customer segments
 
-  Screenshot (placeholder):
-  ![Page 2 - Pricing Strategy](docs/images/page2_pricing_strategy.png "Page 2 - Pricing Strategy - recommended size 1400×800")
+  <img width="1292" height="725" alt="Image" src="https://github.com/user-attachments/assets/faaf87dd-94e5-418f-8faa-b97bec327078" />
 
 - Page 3: Customer Satisfaction Analytics
   - Analysis Focus: Customer experience and booking completion drivers
@@ -53,8 +52,7 @@ The Power BI solution is organized into four interactive pages. Each page below 
     - Improved staff training for handling special requests
     - Enhanced loyalty program based on satisfaction drivers
 
-  Screenshot (placeholder):
-  ![Page 3 - Customer Satisfaction](docs/images/page3_customer_satisfaction.png "Page 3 - Customer Satisfaction - recommended size 1400×800")
+  <img width="1293" height="731" alt="Image" src="https://github.com/user-attachments/assets/a1a0ae59-868c-46ec-8170-be07bbd74513" />
 
 - Page 4: Platform Comparison
   - Analysis Focus: Comprehensive Hotels vs Airbnb market analysis
@@ -67,8 +65,7 @@ The Power BI solution is organized into four interactive pages. Each page below 
     - Identified market segments for potential expansion
     - Created value-added services to justify premium pricing
 
-  Screenshot (placeholder):
-  ![Page 4 - Platform Comparison](docs/images/page4_platform_comparison.png "Page 4 - Platform Comparison - recommended size 1400×800")
+<img width="1299" height="732" alt="Image" src="https://github.com/user-attachments/assets/80c8225b-66a3-43f9-ab2a-e6ce7cd9145a" />
 
 ## Technical Stack
 
@@ -97,7 +94,7 @@ The Power BI solution is organized into four interactive pages. Each page below 
   - Optimized operational efficiency during seasonal demand peaks
   - Competitive market positioning through detailed pricing analysis
 
-## Dataset Sources
+## Dataset Sources and SQL Code
 - Hotel Booking Demand Dataset — Kaggle (119,390 records)
 - Airbnb Listings Data — Kaggle (Used only in Page 4 for comparison)
 
@@ -123,23 +120,6 @@ The Power BI solution is organized into four interactive pages. Each page below 
 5. Import the Power BI report file (or recreate the report pages) and bind visuals to the prepared tables/measures.
 6. Tune visuals, measures (DAX), and filters to match the dashboard pages.
 
-## Where to put dashboard images
-- Create a folder at: docs/images/
-- Save the exported images with the recommended filenames:
-  - docs/images/page1_performance_overview.png
-  - docs/images/page2_pricing_strategy.png
-  - docs/images/page3_customer_satisfaction.png
-  - docs/images/page4_platform_comparison.png
-
-Recommended export settings from Power BI:
-- Format: PNG (preferred) or JPEG
-- Resolution: 1400×800 px (16:9) or higher
-- Compression: minimal to preserve text legibility
-- Optional: export additional cropped images per section using filename patterns:
-  - docs/images/page1_sectionA.png
-  - docs/images/page2_sectionB.png
-
-Update the README image links if you change filenames or paths.
 
 ## Contributing
 Feel free to fork this project and submit pull requests for improvements. Contributions that add SQL queries, additional visualizations, data quality checks, reproducible ETL scripts, or sample dashboard images are especially welcome.
