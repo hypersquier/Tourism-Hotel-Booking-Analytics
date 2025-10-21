@@ -4,9 +4,7 @@
 A comprehensive data analysis project exploring hotel booking patterns and customer behavior using SQLite for data processing and Power BI for interactive visualizations. The project uncovers booking trends, pricing opportunities, customer satisfaction drivers, and platform comparisons to enable data-driven decisions for lodging businesses.
 
 ## Project Structure
-The Power BI solution is organized into four interactive pages. Each page below includes a screenshot placeholder — add your exported images under docs/images/ using the recommended filenames.
-
-- Page 1: Performance Overview
+The Power BI solution is organized into four interactive pages. 
   - Analysis Focus: Overall booking performance and seasonal trends
   - Key Metrics:
     - Total Bookings: 119,390 records
@@ -22,8 +20,7 @@ The Power BI solution is organized into four interactive pages. Each page below 
     - Seasonal pricing strategy implementation
     - Improved resource allocation during peak months
 
- 
-  <img width="1285" height="727" alt="Image" src="https://github.com/user-attachments/assets/9b161e94-b287-41d8-8f70-b5ea71e68e87" />
+ <br /> <img width="1285" height="727" alt="Image" src="https://github.com/user-attachments/assets/9b161e94-b287-41d8-8f70-b5ea71e68e87" />
 
 - Page 2: Pricing Strategy Analysis
   - Analysis Focus: Hotel pricing optimization and influencing factors
@@ -38,7 +35,7 @@ The Power BI solution is organized into four interactive pages. Each page below 
     - Revised meal plan offerings based on profitability analysis
     - Created targeted packages for different customer segments
 
-  <img width="1292" height="725" alt="Image" src="https://github.com/user-attachments/assets/faaf87dd-94e5-418f-8faa-b97bec327078" />
+  <br /><img width="1292" height="725" alt="Image" src="https://github.com/user-attachments/assets/faaf87dd-94e5-418f-8faa-b97bec327078" />
 
 - Page 3: Customer Satisfaction Analytics
   - Analysis Focus: Customer experience and booking completion drivers
@@ -52,7 +49,7 @@ The Power BI solution is organized into four interactive pages. Each page below 
     - Improved staff training for handling special requests
     - Enhanced loyalty program based on satisfaction drivers
 
-  <img width="1293" height="731" alt="Image" src="https://github.com/user-attachments/assets/a1a0ae59-868c-46ec-8170-be07bbd74513" />
+  <br /><img width="1293" height="731" alt="Image" src="https://github.com/user-attachments/assets/a1a0ae59-868c-46ec-8170-be07bbd74513" />
 
 - Page 4: Platform Comparison
   - Analysis Focus: Comprehensive Hotels vs Airbnb market analysis
@@ -65,20 +62,20 @@ The Power BI solution is organized into four interactive pages. Each page below 
     - Identified market segments for potential expansion
     - Created value-added services to justify premium pricing
 
-<img width="1299" height="732" alt="Image" src="https://github.com/user-attachments/assets/80c8225b-66a3-43f9-ab2a-e6ce7cd9145a" />
+<br /><img width="1181" height="667" alt="Image" src="https://github.com/user-attachments/assets/06e6289f-a156-4c60-9661-5df9186430b4" />
 
 ## Technical Stack
 
 - Database & Analysis
-  - SQLite — Data processing & complex queries
-  - Advanced SQL — JOINs, Window Functions, CASE statements, Aggregations
-  - Data Cleaning — Outlier detection, data validation, missing value treatment
+  - SQLite  Data processing & complex queries
+  - Advanced SQL JOINs, Window Functions, CASE statements, Aggregations
+  - Data Cleaning  Outlier detection, data validation, missing value treatment
 
 - Visualization & BI
-  - Power BI — Interactive dashboard design
-  - DAX — Custom measures & business logic
-  - Data Storytelling — Actionable insights presentation
-  - Conditional Formatting — Advanced visual analytics
+  - Power BI Interactive dashboard design
+  - DAX  Custom measures & business logic
+  - Data Storytelling  Actionable insights presentation
+  - Conditional Formatting  Advanced visual analytics
 
 ## Overall Project Results
 
@@ -94,9 +91,21 @@ The Power BI solution is organized into four interactive pages. Each page below 
   - Optimized operational efficiency during seasonal demand peaks
   - Competitive market positioning through detailed pricing analysis
 
-## Dataset Sources and SQL Code
-- Hotel Booking Demand Dataset — Kaggle (119,390 records)
-- Airbnb Listings Data — Kaggle (Used only in Page 4 for comparison)
+## Dataset Sources
+- Hotel Booking Demand Dataset Kaggle (119,390 records) : https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+- Airbnb Listings Data — Kaggle (Used only in Page 4 for comparison) : https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
+- 
+## 📦 Download Complete Project
+
+**File:** [`tourism-analytics-project.zip`](https://github.com/hypersquier/Tourism-Hotel-Booking-Analytics/blob/main/Tourism%20and%20Travel%20Data%20Analysis%20Project%20Plan.7z#:~:text=Breadcrumbs,Hotel%2DBooking%2DAnalytics)
+
+### What's Included:
+- ✅ **Full SQL Code** (15+ advanced queries)
+- ✅ **Power BI Dashboard** (.pbix file with 4 interactive pages)
+- ✅ **Dataset References** and sources
+- ✅ **Documentation** of analysis methodology
+- ✅ **All project assets** in one ready-to-use package
+
 
 ## Key Features
 - 4 Interactive Dashboards in Power BI
@@ -124,9 +133,7 @@ The Power BI solution is organized into four interactive pages. Each page below 
 ## Contributing
 Feel free to fork this project and submit pull requests for improvements. Contributions that add SQL queries, additional visualizations, data quality checks, reproducible ETL scripts, or sample dashboard images are especially welcome.
 
-## License
-Choose and add a license (e.g., MIT) appropriate for your repo.
 
 ---
 
-Author: hypersquier
+Author: Anas Zerrabi
